@@ -1,8 +1,13 @@
 <?php
 
 return [
-    'gateway_title' => 'PaymentNetwork',
-    'method_description' => 'Pay securely via Credit / Debit Card with PaymentNetwork',
-    'default_merchant_id' => '155928',
-    'default_secret' => 'm3rch4nts1gn4tur3k3y',
+	'default' => [
+		'gateway_title' => 'Cardstream',
+		'method_description' => 'Pay securely via Credit / Debit Card with Cardstream',
+	],
+	'applepay' => [
+		'method_description' => 'Apple Pay description',
+		'title' => 'Apple Pay',
+		'gateway_validation_available' => true,
+	],
 ];

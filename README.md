@@ -8,16 +8,16 @@ This module enables the use of online payment gateway using the Woocommerce proj
 COMPATIBILITY
 ------------
 
-Compatible with version 5.8 of Woocommerce and upto 5.8 of Wordpress. 
+Compatible with version 6.x of Woocommerce and upto 6.x of Wordpress. 
 
 INTRODUCTION
 ------------
 
-This module enables the woocommerce customers to pay for their items using the PaymentNetwork hosted form or direct payment gateway.
+This module enables the woocommerce customers to pay for their items using the Handpoint hosted form or direct payment gateway.
 
 What does it do?
 ----------------
-Presents the option to pay with credit card or debit card via the PaymentNetwork payment gateway.
+Presents the option to pay with credit card or debit card via the Handpoint payment gateway.
 
 
 INSTALLATION
@@ -31,7 +31,7 @@ INSTALLATION
 
 4. Click the "Choose File" button and select the module (which will be the whole zip file this readme is in)
 
-4. Click the "Install Now" button and then click the "Activate" button.
+5. Click the "Install Now" button and then click the "Activate" button.
 
 
 Manual installation 
